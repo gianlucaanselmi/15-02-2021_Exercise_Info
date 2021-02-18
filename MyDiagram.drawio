@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-02-18T10:06:25.986Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 OPR/74.0.3911.107" etag="TOpLjwQzNYjg65_fOYwg" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-18T10:24:53.555Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 OPR/74.0.3911.107" etag="8IWX49AeHBKITrJWzvIN" version="14.4.2" type="github">
   <diagram id="6oG2rA0FdBYTYJQEiNRq" name="Page-1">
     <mxGraphModel dx="1862" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="BauD2fwMcMvfJoYQSg5D-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="140" width="660" height="410" as="geometry" />
+          <mxGeometry x="100" y="120" width="660" height="410" as="geometry" />
         </mxCell>
         <mxCell id="BauD2fwMcMvfJoYQSg5D-2" value="Anselmi 4Binf" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="BauD2fwMcMvfJoYQSg5D-1">
           <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
@@ -13,11 +13,8 @@
         <mxCell id="BauD2fwMcMvfJoYQSg5D-3" value="https://www.marconicloud.it" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="BauD2fwMcMvfJoYQSg5D-1">
           <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="BauD2fwMcMvfJoYQSg5D-5" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="BauD2fwMcMvfJoYQSg5D-1">
-          <mxGeometry x="460" y="150" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="BauD2fwMcMvfJoYQSg5D-6" value="Images" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="BauD2fwMcMvfJoYQSg5D-1">
-          <mxGeometry x="470" y="170" width="60" height="40" as="geometry" />
+        <mxCell id="BauD2fwMcMvfJoYQSg5D-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.061;entryY=0.776;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="BauD2fwMcMvfJoYQSg5D-1" source="BauD2fwMcMvfJoYQSg5D-10" target="BauD2fwMcMvfJoYQSg5D-32">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BauD2fwMcMvfJoYQSg5D-10" value="Button&lt;br&gt;" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#E6E6E6;align=center;strokeColor=#B3B3B3;fontColor=#333333;" vertex="1" parent="BauD2fwMcMvfJoYQSg5D-1">
           <mxGeometry x="90" y="170" width="150" height="40" as="geometry" />
@@ -25,11 +22,11 @@
         <mxCell id="BauD2fwMcMvfJoYQSg5D-21" value="Button&lt;br&gt;" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#E6E6E6;align=center;strokeColor=#B3B3B3;fontColor=#333333;" vertex="1" parent="BauD2fwMcMvfJoYQSg5D-1">
           <mxGeometry x="90" y="240" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BauD2fwMcMvfJoYQSg5D-25" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="BauD2fwMcMvfJoYQSg5D-1">
-          <mxGeometry x="460" y="260" width="80" height="80" as="geometry" />
+        <mxCell id="BauD2fwMcMvfJoYQSg5D-32" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="BauD2fwMcMvfJoYQSg5D-1">
+          <mxGeometry x="460" y="150" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="BauD2fwMcMvfJoYQSg5D-26" value="Images" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="BauD2fwMcMvfJoYQSg5D-1">
-          <mxGeometry x="470" y="280" width="60" height="40" as="geometry" />
+        <mxCell id="BauD2fwMcMvfJoYQSg5D-34" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="BauD2fwMcMvfJoYQSg5D-1">
+          <mxGeometry x="460" y="270" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BauD2fwMcMvfJoYQSg5D-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=80;exitDy=65;exitPerimeter=0;" edge="1" parent="1" source="BauD2fwMcMvfJoYQSg5D-13" target="BauD2fwMcMvfJoYQSg5D-10">
           <mxGeometry relative="1" as="geometry" />
@@ -40,11 +37,11 @@
         <mxCell id="BauD2fwMcMvfJoYQSg5D-16" value="Quando viene premuto il bottone, l&#39;immagine viene ingrandita&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-20" y="202.5" width="90" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="BauD2fwMcMvfJoYQSg5D-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BauD2fwMcMvfJoYQSg5D-14" target="BauD2fwMcMvfJoYQSg5D-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="BauD2fwMcMvfJoYQSg5D-14" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="780" y="170" width="90" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BauD2fwMcMvfJoYQSg5D-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1.05;entryY=0.585;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BauD2fwMcMvfJoYQSg5D-20" target="BauD2fwMcMvfJoYQSg5D-32">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BauD2fwMcMvfJoYQSg5D-20" value="Quando il puntatore&amp;nbsp; viene passato sopra l&#39;immagine, essa&lt;br&gt;si restringe&amp;nbsp;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="780" y="175" width="86" height="110" as="geometry" />
@@ -58,11 +55,11 @@
         <mxCell id="BauD2fwMcMvfJoYQSg5D-24" value="Quando viene cliccato il bottone lo sfondo cambia di un colore a propria scelta" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-20" y="320" width="90" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="BauD2fwMcMvfJoYQSg5D-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BauD2fwMcMvfJoYQSg5D-29" target="BauD2fwMcMvfJoYQSg5D-25">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="BauD2fwMcMvfJoYQSg5D-29" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="780" y="370" width="110" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="BauD2fwMcMvfJoYQSg5D-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1.055;entryY=0.555;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BauD2fwMcMvfJoYQSg5D-31" target="BauD2fwMcMvfJoYQSg5D-34">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BauD2fwMcMvfJoYQSg5D-31" value="Quando viene cliccata l&#39;immagine, lo sfondo diventa di un colore a propria scelta abbinato con l&#39;immagine stessa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="781" y="380" width="108" height="110" as="geometry" />
